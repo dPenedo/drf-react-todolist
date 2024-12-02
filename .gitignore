@@ -1,0 +1,49 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+.env
+venv/
+*.sqlite3
+
+# Django
+db.sqlite3
+/static/
+media/
+*.log
+
+# Node.js / React
+client/node_modules/
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+client/build/
+client/.env
+
+# Tailwind
+tailwind.config.js
+postcss.config.js
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Logs and Temporary Files
+*.log
+*.bak
+*.tmp
+
+# Coverage
+coverage/
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Others
+dist/
+build/
