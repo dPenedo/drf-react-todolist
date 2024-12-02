@@ -16,6 +16,20 @@ A full-stack To-Do List application built with **Django Rest Framework (DRF)** a
   - Mark tasks as complete/incomplete.
   - Intuitive user interface.
 
+## Screenshots
+
+### API Documentation
+Below is a screenshot of the interactive API documentation for the To-Do List app, accessible at the `/tasks/docs/` endpoint. This documentation allows you to easily explore and test the API endpoints.
+
+![API Documentation](./screenshots/documentation-screenshot.webp)
+
+### To-Do List Interface
+Here’s a screenshot of the main To-Do List interface. You can add, delete, and update tasks with an intuitive UI that interacts with the backend API.
+
+![To-Do List Interface](./screenshots/captura-todolist.webp)
+
+
+
 ## Getting Started
 
 ### Prerequisites
